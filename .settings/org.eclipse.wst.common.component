@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Product CRUD">
+    <wb-module deploy-name="Tp5 JPA">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="Product_CRUD"/>
-        <property name="java-output-path" value="/Product CRUD/build/classes"/>
+        <property name="java-output-path" value="/Tp5 JPA/build/classes"/>
     </wb-module>
 </project-modules>
